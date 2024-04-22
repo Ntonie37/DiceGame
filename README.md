@@ -1,4 +1,4 @@
-<img src="https://github.com/catherineisonline/pig-dice-game/blob/main/images/project-preview.png?raw=true"/>
+
 
 # Dice Game
 
